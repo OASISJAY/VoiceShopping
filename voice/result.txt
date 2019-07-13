@@ -1,0 +1,1 @@
+{"corpus_no":"6713043411106669201","err_msg":"success.","err_no":0,"result":["apple"],"sn":"898523224081563002218"}
